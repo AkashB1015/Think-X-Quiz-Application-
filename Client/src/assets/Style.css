@@ -1,0 +1,47 @@
+ 
+
+   #root {
+     display: flex;
+     flex-direction: column;
+     min-height: 100vh;
+   }
+
+   .navbar-brand {
+     font-weight: 200;
+     font-size: 1.5rem;
+     align-items: center;
+     gap: 8px;
+   }
+
+   .Nave-bar-Quize {
+
+     position: fixed;
+     top: 0;
+     left: 0;
+     width: 100%;
+     z-index: 1000;
+   }
+
+   .navbar-nav a {
+     font-weight: 500;
+     color: #fff !important;
+   }
+
+   .navbar-nav a:hover {
+     text-decoration: underline;
+   }
+
+   .login-btn {
+
+     color: white;
+     border: none;
+     border-radius: 28px;
+     padding: 8px 18px;
+     transition: 0.3s;
+   }
+
+   .login-btn:hover {
+     background-color: #0056b3;
+   }
+   
+ 

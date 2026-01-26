@@ -1,0 +1,60 @@
+/* ===== HEADER SECTION ===== */
+.about-header {
+  padding: 90px 20px 90px;
+  background: linear-gradient(180deg, #d6e7ff 0%, #ffffff 100%);
+}
+
+.about-main-heading {
+  font-size: 3rem;
+  font-weight: 650;
+  color: #0f58be;
+}
+
+.about-subtext {
+  font-size: 1.2rem;
+  max-width: 750px;
+  margin: 20px auto;
+  color: #556677;
+  line-height: 1.7;
+}
+
+
+.about-app-section {
+  padding: 90px 20px;
+  background: #f8fbff;
+}
+
+.about-app-img {
+  max-width: 75%;
+  border-radius: 20px;
+  box-shadow: 0 12px 30px rgba(0,0,0,0.1);
+}
+
+.about-app-title {
+  font-size: 2.3rem;
+  font-weight: 700;
+  color: #0d6efd;
+  margin-bottom: 20px;
+}
+
+.about-app-text {
+  font-size: 1.15rem;
+  color: #445566;
+  line-height: 1.75;
+  margin-bottom: 15px;
+}
+
+
+@media (max-width: 768px) {
+  .about-main-heading {
+    font-size: 2.3rem;
+  }
+
+  .about-app-img {
+    max-width: 90%;
+  }
+
+  .about-app-title {
+    font-size: 1.8rem;
+  }
+}
