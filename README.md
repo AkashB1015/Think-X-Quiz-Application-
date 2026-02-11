@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=3500&color=1E90FF&lines=ThinkX+Platform;Full+Stack+MERN+Quiz+Application;Secure+JWT+Authentication;Admin+%26+User+Role+Based+System;Interactive+Learning+Experience" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=38&center=true&vCenter=true&width=850&height=80&duration=3500&color=6C63FF&lines=ThinkX+Platform;Full+Stack+MERN+Quiz+Application;Secure+JWT+Authentication;Admin+%26+User+Role+Based+System;Interactive+Learning+Experience" />
 </h1>
 
 
