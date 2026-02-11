@@ -78,6 +78,7 @@ Designed and developed a Quiz Application using the MERN stack (MongoDB, Express
 <img width="1744" height="1006" alt="image" src="https://github.com/user-attachments/assets/f821c727-3b5f-4549-9dca-f9a8b1cf6134" />
 
 <hr>
-
+## 🔐 ThinkX – Admin Lonig
+<hr>
 
 
