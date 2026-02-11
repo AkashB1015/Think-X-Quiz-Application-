@@ -94,4 +94,13 @@ Designed and developed a Quiz Application using the MERN stack (MongoDB, Express
 
 <hr>
 
+## 📝 ThinkX – Create Quiz Page
+
+- The Create Quiz page allows the Admin to create new quizzes by adding a quiz title, selecting a subject, and entering multiple questions with options.
+- Admin can mark the correct answer for each question and dynamically add more questions before submitting.
+- On submission, the quiz data is sent to the backend (Node.js & Express.js) and stored in MongoDB for student access.
+  
+<img width="1919" height="1075" alt="image" src="https://github.com/user-attachments/assets/0d62489a-d9e2-468b-bfcf-4fad4fd42c1b" />
+
+<hr>
 
