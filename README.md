@@ -32,3 +32,15 @@ Designed and developed a Quiz Application using the MERN stack (MongoDB, Express
 
  <hr>
 
+## 🛠️ ThinkX – Services Page
+
+- The Services Page showcases the main features of the ThinkX platform, including Interactive Quizzes, Daily Quiz Challenges, Timed Quiz Battles, and Topic-Wise Quizzes.
+- It allows users to attempt quizzes, participate in daily challenges, test their speed with timed quizzes, and explore subject-based categories for focused learning.
+- The page is developed using reusable React.js components with responsive card layouts, and each service button is connected to backend APIs built with Node.js and Express.js.
+
+<img width="1898" height="1089" alt="image" src="https://github.com/user-attachments/assets/ed5dbbf4-abc4-440a-871a-323102be2f2f" />
+<img width="1900" height="265" alt="image" src="https://github.com/user-attachments/assets/f9700d0f-2365-4964-bcc7-aebe4538dde9" />
+
+ <hr>
+
+
