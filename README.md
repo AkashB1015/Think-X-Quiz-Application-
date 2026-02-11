@@ -132,3 +132,79 @@ Designed and developed a Quiz Application using the MERN stack (MongoDB, Express
 
 <hr>
 
+## 🎯 ThinkX – User Quiz Home Page
+
+<hr>
+
+- After successful login using JWT authentication, the user is redirected to the User Quiz Home page.
+- This page is accessible only to authenticated users, ensuring secure access to quiz features.
+- It displays a welcome message and provides a simple interface to start the quiz.
+- The “Start Quiz” button allows users to begin attempting available quizzes.
+- Users can log out securely using the Logout option, which clears the authentication token.
+
+<img width="1917" height="1073" alt="image" src="https://github.com/user-attachments/assets/1a7ef0eb-9b61-462e-9911-926a624d93a5" />
+
+<hr> 
+
+## 📝 ThinkX – User Available Quizzes Page
+
+- After login, users can view all available quizzes categorized by subject and title.
+- Each quiz card displays quiz name, subject, and basic details fetched dynamically from the backend.
+- Users can start any quiz by clicking the “Start Quiz” button.
+- Quiz data is retrieved using secure API calls built with Node.js and Express.js.
+- This page ensures only authenticated users (via JWT) can access and attempt quizzes.
+- 
+  <img width="1919" height="1092" alt="image" src="https://github.com/user-attachments/assets/b01eefe3-4baf-416f-9ef0-0a5439966b02" />
+
+<hr> 
+
+## 🧠 ThinkX – Start Quiz Page
+
+- When the user clicks “Start Quiz”, the selected quiz questions are loaded dynamically from the backend.
+- Each question displays multiple options, and the user can select one answer at a time.
+- Navigation buttons like “Previous” and “Next” allow users to move between questions smoothly.
+- The quiz is accessible only to logged-in users through JWT-based authentication.
+- User responses are captured and sent to the backend for score calculation and result processing.
+
+  <img width="1919" height="998" alt="image" src="https://github.com/user-attachments/assets/888df66a-c1dd-4ecc-987e-1c0f39a70e16" />
+  
+<hr> 
+## 📊 ThinkX – Quiz Result Page
+
+- After completing the quiz, the system calculates the score and displays the total percentage along with correct answers.
+- Each question is shown with the correct option highlighted for better understanding and review.
+- The result is generated based on user responses stored and evaluated through backend logic (Node.js & Express.js).
+- This page helps users analyze their performance and understand their mistakes instantly.
+- Users can navigate back to the dashboard to attempt more quizzes or view other options.
+
+<img width="1577" height="1088" alt="image" src="https://github.com/user-attachments/assets/ace6d70c-de1a-4295-b827-7a917c682297" />
+
+<hr> 
+
+<hr>
+
+## 🚀 ThinkX – Complete Application Flow (MERN Stack)
+
+1. ThinkX is a full-stack web application developed using the MERN stack (MongoDB, Express.js, React.js, Node.js) for building a scalable and modern quiz platform.
+
+2. The frontend is built using React.js with reusable components, React Router for navigation, Formik for form handling, and proper client-side validation.
+
+3. Users and Admin can register and log in through secure authentication APIs developed using Node.js and Express.js.
+
+4. JWT (JSON Web Token) authentication is implemented to generate secure tokens after login, enabling protected routes and role-based access control.
+
+5. Passwords are securely stored in the database (MongoDB/MySQL) using encryption (e.g., bcrypt hashing) to ensure data security.
+
+6. After Admin login, the Admin Dashboard allows quiz creation, question management, student monitoring, ranking analysis, and contact message management.
+
+7. Quiz creation includes dynamic question addition, correct answer marking, and subject management, with all data stored in the database.
+
+8. After User login, users can view available quizzes, attempt questions, navigate between them, and submit responses securely.
+
+9. The backend processes user answers, calculates scores, stores results, and displays detailed quiz results with performance feedback.
+
+10. The entire system ensures secure API communication, role-based authorization (Admin/User), database integration, and responsive UI design for a complete end-to-end quiz management solution.
+
+<hr> 
+<hr>
+
