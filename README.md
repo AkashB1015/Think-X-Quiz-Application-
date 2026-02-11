@@ -42,6 +42,7 @@ Designed and developed a Quiz Application using the MERN stack (MongoDB, Express
 <img width="1900" height="265" alt="image" src="https://github.com/user-attachments/assets/f9700d0f-2365-4964-bcc7-aebe4538dde9" />
 
  <hr>
+ 
 ## 📝 ThinkX – Student Registration Page
 
 - The Student Registration page allows students or users to create a new account by entering their basic details such as name, email, password, date of birth, gender, and phone number.
@@ -54,3 +55,29 @@ Designed and developed a Quiz Application using the MERN stack (MongoDB, Express
 <img width="1898" height="246" alt="image" src="https://github.com/user-attachments/assets/daa907ff-9dcc-42cd-9528-898bce553203" />
 
  <hr>
+
+ ## 📩 ThinkX – Contact Us Page
+
+- The Contact Us page allows users to send queries, feedback, or suggestions by filling in their name, email, phone number, and message.
+- The form is built using React.js with proper validation to ensure all required fields are correctly entered before submission.
+- On submitting the form, the data is sent to the backend (Node.js and Express.js) for processing, and appropriate success or error messages are displayed.
+
+<img width="1899" height="919" alt="image" src="https://github.com/user-attachments/assets/97fd98a2-5a66-435f-b0ba-b78992a43c7d" />
+<img width="1901" height="244" alt="image" src="https://github.com/user-attachments/assets/340513e8-b1c7-4cdd-ad4d-26b3855bb020" />
+
+<hr>
+
+## 🔐 ThinkX – Sign In Page
+
+- The Sign In page allows Admin and User to log in using email and password credentials.
+- The form is built using React.js with Formik for form handling and validation of required fields.
+- Password visibility toggle is provided for better user experience.
+- On successful login, JWT (JSON Web Token) authentication is implemented to generate a secure token.
+- The token is stored securely and used to authorize protected routes and dashboard access.
+
+<img width="1744" height="1006" alt="image" src="https://github.com/user-attachments/assets/f821c727-3b5f-4549-9dca-f9a8b1cf6134" />
+
+<hr>
+
+
+
