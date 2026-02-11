@@ -1,6 +1,10 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Welcome+to+ThinkX+Quiz+Platform!;MERN+Stack+Web+Application;Secure+JWT+Authentication;Interactive+Quiz+Management+System" />
 </h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&size=32&center=true&vCenter=true&width=750&height=70&duration=3500&lines=ThinkX+-+Full+Stack+Quiz+Application;Built+with+MERN+Stack;Admin+%26+User+Role+Based+System;Secure+JWT+Authentication+%26+REST+APIs" />
+</h1>
+
 
 Designed and developed a Quiz Application using the MERN stack (MongoDB, Express.js, React.js, Node.js). Implemented RESTful APIs for quiz management, real-time scoring, and result analysis. Built a responsive React-based user interface with optimized backend services. Secured the application using JWT authentication and role-based access control.
 
