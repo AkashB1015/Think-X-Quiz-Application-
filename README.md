@@ -113,4 +113,13 @@ Designed and developed a Quiz Application using the MERN stack (MongoDB, Express
 <img width="1919" height="991" alt="image" src="https://github.com/user-attachments/assets/f331569e-c72c-4b11-913c-af9e6adc1120" />
 <hr>
 
+## 👨‍🎓 ThinkX – Students List Page
+
+- The Students List page allows the Admin to view all registered students along with their name, email, joined date, and account status.
+- The total number of students is displayed, and data is fetched dynamically from the backend using secure API endpoints.
+- This page helps the Admin manage student accounts and monitor user activity within the system.
+  
+<img width="1919" height="990" alt="image" src="https://github.com/user-attachments/assets/83f8d0ff-e1e0-47be-b5df-69b6672c017a" />
+
+<hr>
 
