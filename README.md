@@ -104,3 +104,13 @@ Designed and developed a Quiz Application using the MERN stack (MongoDB, Express
 
 <hr>
 
+## 📚 ThinkX – Available Quizzes Page
+
+- The Available Quizzes page displays all created quizzes with details such as quiz title, subject, and creation date.
+- Admin can view student performance by clicking the “View Rankings” button for each quiz.
+- The quiz list is fetched dynamically from the backend (Node.js & Express.js) and stored in MongoDB, ensuring real-time data display.
+  
+<img width="1919" height="991" alt="image" src="https://github.com/user-attachments/assets/f331569e-c72c-4b11-913c-af9e6adc1120" />
+<hr>
+
+
