@@ -77,8 +77,21 @@ Designed and developed a Quiz Application using the MERN stack (MongoDB, Express
 
 <img width="1744" height="1006" alt="image" src="https://github.com/user-attachments/assets/f821c727-3b5f-4549-9dca-f9a8b1cf6134" />
 
+
 <hr>
-## 🔐 ThinkX – Admin Lonig
+
+## 📊 ThinkX – Admin Dashboard 
+
+<hr>
+
+- After successful Admin login using JWT authentication, the user is redirected to the secure Admin Dashboard.
+- The dashboard provides options to Create Quiz, View Rankings, and Manage Students from a centralized control panel.
+- Admin can create and manage quiz questions, monitor student performance, and track overall rankings.
+- All dashboard routes are protected using JWT-based authorization to ensure secure access.
+- The page is developed using React.js components with role-based access control for Admin functionality.
+
+<img width="1915" height="982" alt="image" src="https://github.com/user-attachments/assets/6d1da6ab-1a04-4448-875a-1b9ec035c8c0" />
+
 <hr>
 
 
