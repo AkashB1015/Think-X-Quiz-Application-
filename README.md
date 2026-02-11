@@ -42,5 +42,15 @@ Designed and developed a Quiz Application using the MERN stack (MongoDB, Express
 <img width="1900" height="265" alt="image" src="https://github.com/user-attachments/assets/f9700d0f-2365-4964-bcc7-aebe4538dde9" />
 
  <hr>
+## 📝 ThinkX – Student Registration Page
 
+- The Student Registration page allows students or users to create a new account by entering their basic details such as name, email, password, date of birth, gender, and phone number.
+- The form is developed using React.js and Formik for efficient form handling and state management.
+- Form validation is implemented using Formik (and Yup) to ensure proper email format, required fields, password rules, and valid input data.
+- On successful validation, the data is sent to the backend API built with Node.js and Express.js for secure user registration.
+- User details are stored in MongoDB, and proper error/success messages are displayed based on the registration response.
 
+<img width="1898" height="1033" alt="image" src="https://github.com/user-attachments/assets/1eae1c5c-7314-4368-8342-acef6cf964e2" />
+<img width="1898" height="246" alt="image" src="https://github.com/user-attachments/assets/daa907ff-9dcc-42cd-9528-898bce553203" />
+
+ <hr>
