@@ -122,4 +122,13 @@ Designed and developed a Quiz Application using the MERN stack (MongoDB, Express
 <img width="1919" height="990" alt="image" src="https://github.com/user-attachments/assets/83f8d0ff-e1e0-47be-b5df-69b6672c017a" />
 
 <hr>
+## 📬 ThinkX – Contact Messages (Admin Panel)
+
+- The Contact Messages page allows the Admin to view all messages submitted by users through the Contact Us form.
+- It displays user details such as full name, email, phone number, message content, and submission date.
+- Admin can manage messages efficiently, including deleting resolved or unwanted queries through secure backend API .
+  
+  <img width="1919" height="1022" alt="image" src="https://github.com/user-attachments/assets/4fc5d527-ab03-44a4-b5d7-4d32c948ce76" />
+
+<hr>
 
