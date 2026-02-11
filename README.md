@@ -1,7 +1,6 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Playfair+Display&size=38&center=true&vCenter=true&width=850&height=80&duration=3500&color=2563EB&lines=ThinkX+Platform;Full+Stack+MERN+Quiz+Application;Secure+JWT+Authentication;Admin+%26+User+Role+Based+System;Interactive+Learning+Experience" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=900&height=80&duration=3500&color=FF0000&lines=ThinkX+Platform;Full+Stack+MERN+Quiz+Application;Secure+JWT+Authentication;Admin+%26+User+Role+Based+System;Interactive+Learning+Experience" />
 </h1>
-
 
 
 
