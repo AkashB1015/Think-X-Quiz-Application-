@@ -1,12 +1,6 @@
 <h1 align="center">
-  <!-- Red Title -->
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=38&center=true&vCenter=true&width=600&height=70&duration=4000&color=FF0000&lines=ThinkX+Platform" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=3500&color=1E90FF&lines=ThinkX+Platform;Full+Stack+MERN+Quiz+Application;Secure+JWT+Authentication;Admin+%26+User+Role+Based+System;Interactive+Learning+Experience" />
 </h1>
-
-<h2 align="center">
-  <!-- Blue Lines -->
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=28&center=true&vCenter=true&width=800&height=60&duration=3500&color=1E90FF&lines=Full+Stack+MERN+Quiz+Application;Secure+JWT+Authentication;Admin+%26+User+Role+Based+System;Interactive+Learning+Experience" />
-</h2>
 
 
 
